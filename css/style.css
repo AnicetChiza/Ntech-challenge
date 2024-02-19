@@ -89,7 +89,6 @@ section .container div {
     display: flex;
     flex-direction: row;
     align-items: center;
-    text-align: center;
     gap: 10px;
 }
 
